@@ -38,11 +38,9 @@ Seguir fortaleciendo mis conocimientos, desarrollar proyectos cada vez más comp
 
 ## Contacto
 
-<p>
-  <a href="mailto:stivenvega282@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-stivenvega282%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<a href="mailto:stivenvega282@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" />
+</a>
 
 ---
 
