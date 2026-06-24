@@ -1,3 +1,8 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/Perfil-Stiven-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudiante-ADSO-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Python-MySQL-f39c12?style=for-the-badge" />
+</p>
 # Hola, soy Stiven 👋
 
 ### Estudiante de Análisis y Desarrollo de Software
