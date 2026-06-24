@@ -14,16 +14,10 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,py,mysql," />
+    <img src="https://skillicons.dev/icons?i=html,py,java,mysql," />
   </a>
 </p>
 </p>
-
-- **HTML5** para estructura y desarrollo web.
-- **Python** para lógica, automatización y aprendizaje de programación.
-- **Java** para desarrollo de aplicaciones y fortalecimiento de la programación orientada a objetos.
-- **MySQL** para diseño y gestión de bases de datos relacionales.
-
 ## En este perfil encontrarás
 
 - Proyectos académicos y formativos.
