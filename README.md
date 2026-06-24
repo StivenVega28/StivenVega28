@@ -11,8 +11,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 - Busco crecer profesionalmente a través de proyectos y práctica constante.
 
 ## Conocimientos
-</p>
-</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,py,java,mysql," />
