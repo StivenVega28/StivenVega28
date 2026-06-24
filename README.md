@@ -18,6 +18,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
   </a>
 </p>
 </p>
+
 ## En este perfil encontrarás
 
 - Proyectos académicos y formativos.
