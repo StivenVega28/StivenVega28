@@ -1,8 +1,8 @@
-# Hola, soy Stiven 👋
+# Hola, soy Stiven 
 
 ### Estudiante de Análisis y Desarrollo de Software
 
-Soy estudiante de Análisis y Desarrollo de Software, con interés en la programación, el desarrollo web, la lógica de programación y las bases de datos. En este perfil comparto mi paso a paso en este mundo.
+Soy estudiante de Análisis y Desarrollo de Software, con interés en la programación, el desarrollo web, la lógica de programación y las bases de datos. En este perfil quiero compartir mi paso a paso en este mundo.
 
 ## Sobre mí
 
