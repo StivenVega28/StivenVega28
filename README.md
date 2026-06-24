@@ -19,12 +19,14 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 </p>
 </p>
 
-## En este perfil encontrarás
+## Estudios
 
-- Proyectos académicos y formativos.
-- Prácticas de programación.
-- Ejercicios de desarrollo web y software.
-- Avances en bases de datos y construcción de aplicaciones.
+- Técnico en sistemas
+- Análisis y Desarrollo de Software (En formación)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c466fe0e-3009-4283-8762-0799fe98b582" alt="Logo SENA" width="80">
+</p>
 
 ## Objetivo
 
