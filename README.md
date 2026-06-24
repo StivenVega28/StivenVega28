@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hola, soy Stiven 👋
 
-<!--
-**StivenVega28/StivenVega28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Análisis y Desarrollo de Software
 
-Here are some ideas to get you started:
+Soy estudiante de Análisis y Desarrollo de Software, con interés en la programación, el desarrollo web, la lógica de programación y las bases de datos. En este perfil comparto proyectos, prácticas y avances que forman parte de mi proceso de aprendizaje y crecimiento como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- Me encuentro en formación en desarrollo de software.
+- Me gusta crear soluciones útiles, organizadas y funcionales.
+- Disfruto aprender nuevas tecnologías y mejorar mis habilidades técnicas.
+- Busco crecer profesionalmente a través de proyectos y práctica constante.
+
+## Conocimientos
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+- **HTML5** para estructura y desarrollo web.
+- **Python** para lógica, automatización y aprendizaje de programación.
+- **Java** para desarrollo de aplicaciones y fortalecimiento de la programación orientada a objetos.
+- **MySQL** para diseño y gestión de bases de datos relacionales.
+
+## En este perfil encontrarás
+
+- Proyectos académicos y formativos.
+- Prácticas de programación.
+- Ejercicios de desarrollo web y software.
+- Avances en bases de datos y construcción de aplicaciones.
+
+## Objetivo
+
+Seguir fortaleciendo mis conocimientos, desarrollar proyectos cada vez más completos y construir un perfil profesional sólido en el área del desarrollo de software.
+
+---
+
+Gracias por visitar mi perfil.
