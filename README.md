@@ -36,6 +36,14 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 
 Seguir fortaleciendo mis conocimientos, desarrollar proyectos cada vez más completos y construir un perfil profesional sólido en el área del desarrollo de software.
 
+## Contacto
+
+<p>
+  <a href="mailto:stivenvega282@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-stivenvega282%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 ---
 
 Gracias por visitar mi perfil.
