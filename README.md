@@ -2,22 +2,21 @@
 
 ### Estudiante de Análisis y Desarrollo de Software
 
-Soy estudiante de Análisis y Desarrollo de Software, con interés en la programación, el desarrollo web, la lógica de programación y las bases de datos. En este perfil comparto proyectos, prácticas y avances que forman parte de mi proceso de aprendizaje y crecimiento como desarrollador.
+Soy estudiante de Análisis y Desarrollo de Software, con interés en la programación, el desarrollo web, la lógica de programación y las bases de datos. En este perfil comparto mi paso a paso en este mundo.
 
 ## Sobre mí
 
 - Me encuentro en formación en desarrollo de software.
-- Me gusta crear soluciones útiles, organizadas y funcionales.
 - Disfruto aprender nuevas tecnologías y mejorar mis habilidades técnicas.
 - Busco crecer profesionalmente a través de proyectos y práctica constante.
 
 ## Conocimientos
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,java,py,mysql," />
+  </a>
+</p>
 </p>
 
 - **HTML5** para estructura y desarrollo web.
