@@ -22,7 +22,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 ## Estudios
 
 - Técnico en sistemas
-- Análisis y Desarrollo de Software (En formación)
+- Tecnólogo en Análisis y Desarrollo de Software (En formación)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c466fe0e-3009-4283-8762-0799fe98b582" alt="Logo SENA" width="80">
