@@ -28,6 +28,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 - [Primer taller JS](https://github.com/StivenVega28/Primer-taller-de-JS.git) — Ejercicio para practicar JS.
 - [Aventura Global](https://github.com/StivenVega28/Prototipo-Aventura-Global.git) — Pagina web para agencia de turismo.
 - [Proyecto Gabo](https://github.com/StivenVega28/Proyecto-Gabo.git) — Pimer proyecto en HTML.
+- [SoGa](https://github.com/StivenVega28/Primer-prototipo-funcional-de-SoGa-SoloJava.git) — Pimer prototipo de SoGa, totalmente funcional usando Java y MySQL.
 
 ## Estudios
 
