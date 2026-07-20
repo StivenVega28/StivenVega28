@@ -19,6 +19,16 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 </p>
 </p>
 
+## Proyectos
+
+- [Arkanoid](https://github.com/StivenVega28/Arkanoid.git) — Juego arkade aplicando responsividad y storage.
+- [Tinder](https://github.com/StivenVega28/Tinder.git) — Copia de un tinder basico.
+- [Segundo taller JS](https://github.com/StivenVega28/Segundo-taller-de-JS.git) — Ejercicio para practicar JS.
+- [Juego responsivo](https://github.com/StivenVega28/Juego-responsivo.git) — Juego de 3 en raya aplicando responsividad.
+- [Primer taller JS](https://github.com/StivenVega28/Primer-taller-de-JS.git) — Ejercicio para practicar JS.
+- [Aventura Global](https://github.com/StivenVega28/Prototipo-Aventura-Global.git) — Pagina web para agencia de turismo.
+- [Proyecto Gabo](https://github.com/StivenVega28/Proyecto-Gabo.git) — Pimer proyecto en HTML.
+
 ## Estudios
 
 - Técnico en sistemas
