@@ -14,7 +14,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,py,java,mysql," />
+    <img src="https://skillicons.dev/icons?i=html,py,java,mysql,css,js," />
   </a>
 </p>
 </p>
