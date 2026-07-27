@@ -11,7 +11,6 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 - Busco crecer profesionalmente a través de proyectos y práctica constante.
 
 ## Conocimientos
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,py,java,mysql,css,js," />
@@ -21,6 +20,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 
 ## Proyectos
 
+- [Sistema de reservas](https://github.com/StivenVega28/Sistema-de-reservas.git) — Sistema de reservas para restaurante.
 - [Arkanoid](https://github.com/StivenVega28/Arkanoid.git) — Juego arkade aplicando responsividad y storage.
 - [Tinder](https://github.com/StivenVega28/Tinder.git) — Copia de un tinder basico.
 - [Segundo taller JS](https://github.com/StivenVega28/Segundo-taller-de-JS.git) — Ejercicio para practicar JS.
