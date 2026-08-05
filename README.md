@@ -20,6 +20,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 
 ## Proyectos
 
+- [Sistema para hotel](https://github.com/StivenVega28/Reto-Hotel-Andino.git) — Sistema de control de inventarios, reservas, huéspedes, alimentación y caja diaria.
 - [Sistema de reservas](https://github.com/StivenVega28/Sistema-de-reservas.git) — Sistema de reservas para restaurante.
 - [Arkanoid](https://github.com/StivenVega28/Arkanoid.git) — Juego arkade aplicando responsividad y storage.
 - [Tinder](https://github.com/StivenVega28/Tinder.git) — Copia de un tinder basico.
