@@ -13,7 +13,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 ## Conocimientos
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,py,java,mysql,css,js," />
+    <img src="https://skillicons.dev/icons?i=html,py,java,mysql,css,js,nodejs," />
   </a>
 </p>
 </p>
