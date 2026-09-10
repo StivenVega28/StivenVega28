@@ -20,16 +20,10 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 
 ## Proyectos
 
-- [SoGa](https://github.com/StivenVega28/SoGa.git) — Proyecto Pos.
+- [SoGa V2](https://github.com/StivenVega28/SoGa.git) — Proyecto Pos.
 - [Sistema para hotel](https://github.com/StivenVega28/Reto-Hotel-Andino.git) — Sistema de control de inventarios, reservas, huéspedes, alimentación y caja diaria.
 - [Sistema de reservas](https://github.com/StivenVega28/Sistema-de-reservas.git) — Sistema de reservas para restaurante.
-- [Arkanoid](https://github.com/StivenVega28/Arkanoid.git) — Juego arkade aplicando responsividad y storage.
-- [Tinder](https://github.com/StivenVega28/Tinder.git) — Copia de un tinder basico.
-- [Segundo taller JS](https://github.com/StivenVega28/Segundo-taller-de-JS.git) — Ejercicio para practicar JS.
-- [Juego responsivo](https://github.com/StivenVega28/Juego-responsivo.git) — Juego de 3 en raya aplicando responsividad.
-- [Primer taller JS](https://github.com/StivenVega28/Primer-taller-de-JS.git) — Ejercicio para practicar JS.
 - [Aventura Global](https://github.com/StivenVega28/Prototipo-Aventura-Global.git) — Pagina web para agencia de turismo.
-- [Proyecto Gabo](https://github.com/StivenVega28/Proyecto-Gabo.git) — Pimer proyecto en HTML.
 - [SoGa](https://github.com/StivenVega28/Primer-prototipo-funcional-de-SoGa-SoloJava.git) — Pimer prototipo de SoGa, totalmente funcional usando Java y MySQL.
 
 ## Estudios
