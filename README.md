@@ -20,7 +20,7 @@ Soy estudiante de Análisis y Desarrollo de Software, con interés en la program
 
 ## Proyectos
 
-- [SoGa V2](https://github.com/StivenVega28/SoGa.git) — Proyecto Pos.
+- [Prototipo SoGa](https://github.com/StivenVega28/SoGa.git) — Proyecto Pos.
 - [Sistema para hotel](https://github.com/StivenVega28/Reto-Hotel-Andino.git) — Sistema de control de inventarios, reservas, huéspedes, alimentación y caja diaria.
 - [Sistema de reservas](https://github.com/StivenVega28/Sistema-de-reservas.git) — Sistema de reservas para restaurante.
 - [Aventura Global](https://github.com/StivenVega28/Prototipo-Aventura-Global.git) — Pagina web para agencia de turismo.
